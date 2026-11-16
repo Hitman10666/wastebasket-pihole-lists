@@ -92,3 +92,5 @@
 ||waterfallalder.com^
 ! some shit i guess my blocklists miss (2026-11-16)
 ||adretriever.com^
+! not sure how this wasnt already on here (2026-11-16)
+||amazon-adsystem.com^
