@@ -90,3 +90,5 @@
 ||rtb.mx^
 ! not sure where this came from maybe Android Authority (2026-10-29)
 ||waterfallalder.com^
+! some shit i guess my blocklists miss (2026-11-16)
+||adretriever.com^
