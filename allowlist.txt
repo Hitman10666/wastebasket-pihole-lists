@@ -128,3 +128,6 @@ youtubei.googleapis.com
 ! Banking / fraud protection (BMO + ThreatMetrix device check)
 @@||bmo.com^
 @@||aa.online-metrix.net^
+
+! ---- Added via GitHub form ----
+s.go-mpulse.net
