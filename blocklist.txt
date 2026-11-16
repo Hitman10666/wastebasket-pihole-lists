@@ -95,3 +95,5 @@
 ! not sure how this wasnt already on here (2026-11-16)
 ||amazon-adsystem.com^
 ||adserv-us.com^
+! some crap from canadacompanyregistry.com (2026-11-16)
+||servicesadmedia.com^
