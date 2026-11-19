@@ -97,3 +97,5 @@
 ||adserv-us.com^
 ! some crap from canadacompanyregistry.com (2026-11-16)
 ||servicesadmedia.com^
+! shows up on work computer (2026-11-19)
+||bids.ws^
